@@ -1,0 +1,8 @@
+*.bak*
+build/
+dist/
+*.spec
+__pycache__/
+*.exe
+config.json
+ocr_log.txt
